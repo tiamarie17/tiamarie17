@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiamarie17
 - 👀 I’m interested in learning how to program and Natural Language Processing
-- 🌱 I’m currently learning HTML/CSS/Javascript/Python
+- 🌱 I’m currently learning HTML/CSS/JavaScript/Python
 
 
 <!---
