@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tiamarie17
-- 👀 I’m learning how to program and am interested in Natural Language Processing
-- 🌱 I’m currently learning HTML/CSS/JavaScript/Java
+- 👀 I’m a Full Stack Software Engineer
+- 🌱 I’m currently learning JavaScript/React/Redux
 
 
 <!---
