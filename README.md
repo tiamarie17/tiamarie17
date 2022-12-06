@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @tiamarie17
+- Hi, I’m @tiamarie17
 - 👀 I’m a Full Stack Software Engineer
-- 🌱 I’m currently learning JavaScript/React/Redux
+- 🌱 I’m currently learning TypeScript, C#, and .Net
 
 
 <!---
