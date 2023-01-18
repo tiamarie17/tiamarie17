@@ -1,6 +1,6 @@
 - Hi, I’m @tiamarie17
 - I’m a Full Stack Software Engineer
-- 🌱 I’m currently learning TypeScript and Java
+- 🌱 I’m currently learning Java
 
 
 <!---
