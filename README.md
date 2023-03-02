@@ -1,6 +1,7 @@
 - Hi, I’m @tiamarie17
-- I’m a Full Stack Software Engineer
-- 🌱 I’m currently learning Java
+- I’m a Software Engineer
+- 🌱 I’m currently learning Java 
+- My interests include Object-oriented programming and Natural language processing
 
 
 <!---
