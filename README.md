@@ -1,6 +1,5 @@
 - Hi, I’m @tiamarie17
-- I’m a Software Engineer
-- 🌱 I’m currently learning Java 
+- I’m a Software Engineer 
 - My interests include Object-oriented programming and Natural language processing
 
 
