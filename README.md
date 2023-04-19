@@ -1,6 +1,8 @@
 - Hi, I’m @tiamarie17
-- I’m a Software Engineer 
+- I’m a Full Stack Developer: JavaScript, React, Redux, Node.js
+- I'm currently learning Java
 - My interests include Object-oriented programming and Natural language processing
+
 
 
 <!---
