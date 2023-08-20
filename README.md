@@ -1,7 +1,6 @@
 - Hi, I’m @tiamarie17
-- I’m a Full Stack Developer: JavaScript, React, Redux, Node.js
-- I'm currently learning Java and Spring Framework
-- My interests include Object-oriented programming and Natural language processing
+- Java Developer : Spring Framework, Hibernate, JavaScript, React, Node.js
+- Currently learning Python
 
 
 
