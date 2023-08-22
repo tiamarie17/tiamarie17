@@ -1,6 +1,8 @@
 - Hi, I’m @tiamarie17
 - Java Developer : Spring Framework, Hibernate, JavaScript, React, Node.js
 - Currently learning Python
+- [LinkedIn](https://linkedin.com/in/tiatheisen)
+
 
 
 
