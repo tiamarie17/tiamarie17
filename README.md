@@ -1,6 +1,7 @@
 - Hi, I’m @tiamarie17
-- Java Developer : Spring Framework, Hibernate, JavaScript, React, Node.js
-- Currently learning Python
+- Full Stack Engineer: Java, JavaScript, Node.js, React
+- Currently learning Python and working towards my M.S. in Data Science
+- Interested in learning Machine Learning and Natural Language Processing
 - [LinkedIn](https://linkedin.com/in/tiatheisen)
 
 
